@@ -1,0 +1,58 @@
+html  {
+    border: 1px 
+    
+}
+body {
+    background-image: url(assets/style.css);
+    border: 1px;
+    background-image: url(assets/images/dynamic-style.png);
+    background: grey;
+    font: #777777 helvetica
+}
+
+header {
+    height: 10%;
+    background: #ffffff;
+    border: #cccccc;
+    
+}
+
+footer {
+    background: #666666;
+    height: 96px;
+    text-align: center
+}
+.navbar {
+    
+    position: relative;
+    height: 100px;
+    background: rgb(244, 247, 247);
+
+}
+
+.container{
+    margin: 0px 250px 50px 250px;
+    background: rgb(244, 247, 247)
+    
+}
+
+.nav{
+    float: right;
+    font-size: 15pt
+}
+
+#name{
+    position: relative;
+    margin: 20px 1000px 20px 20px;
+    font-size: 50px;
+    background-color: #4aaaa5;
+    bottom: -42px;
+    left: 225px
+
+}
+
+form{
+    margin: 50px 250px 50px 250px;
+    border: solid;
+    background: white
+}
